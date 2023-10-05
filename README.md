@@ -21,6 +21,7 @@ Bot reacts to certain text messages by giving a reply
 * Navigate to the saved location using ```cd folderName``` command, where *folderName* is the name of your path folder
 * When in right location run:
 ```
+go mod download
 go build
 go run main.go
 ```
